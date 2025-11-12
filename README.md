@@ -167,14 +167,6 @@ This project is licensed under the **GPL-3.0** License - see the [LICENSE](LICEN
 
 ---
 
-<br/>
-
-## 🙏 Acknowledgments
-
-- **Ram Maheshwari** for the amazing [Dopefolio](https://github.com/rammcodes/Dopefolio) template
-- **Jacobo Martínez** for inspiring the developer community with [Simplefolio](https://github.com/cobidev/simplefolio)
-
-<br/>
 
 ---
 
